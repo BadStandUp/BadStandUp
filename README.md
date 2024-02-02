@@ -9,9 +9,9 @@
 
 <h2 align="center">⚒️ Languages and Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs," />
   <br />
-    <img src="https://skillicons.dev/icons?i=express,mongo,git,figma,ps" />
+    <img src="https://skillicons.dev/icons?i=tailwind,nodejs,express,mongo,git,figma" />
 </div>
 
 <br />
