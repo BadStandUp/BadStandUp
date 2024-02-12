@@ -3,7 +3,9 @@
 <p>
   
 <h3 align="center">Web developer and designer</h3>
-
+<p align="center">
+  My experience includes developing and designing web applications, websites, and interactive elements. I take pride in my ability to create beautiful and functional interfaces that provide an excellent user experience
+<p>
 <br />
 
 
