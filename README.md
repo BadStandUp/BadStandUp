@@ -22,5 +22,5 @@
 <div align=center>
   <img width=400 src="https://github-readme-stats.vercel.app/api?username=BadStandUp" alt="stats"/>
   <br/>
-  <img width=400 src="https://github-readme-stats.vercel.app/api/wakatime?username=BadStandUp)](https://github.com/BadStandUp/github-readme-stats)" />
+  
 </div>
